@@ -1,14 +1,22 @@
-C:\Users\chino\Desktop\octavo semestre\cloud\ejemplo base de datos\src\main\java\mx\uady\jpademo\model\Equipo.java
-C:\Users\chino\Desktop\octavo semestre\cloud\ejemplo base de datos\src\main\java\mx\uady\jpademo\repository\UsuarioRepository.java
-C:\Users\chino\Desktop\octavo semestre\cloud\ejemplo base de datos\src\main\java\mx\uady\jpademo\resource\JpaResource.java
-C:\Users\chino\Desktop\octavo semestre\cloud\ejemplo base de datos\src\main\java\mx\uady\jpademo\service\AlumnoService.java
-C:\Users\chino\Desktop\octavo semestre\cloud\ejemplo base de datos\src\main\java\mx\uady\jpademo\model\Alumno.java
-C:\Users\chino\Desktop\octavo semestre\cloud\ejemplo base de datos\src\main\java\mx\uady\jpademo\model\Usuario.java
-C:\Users\chino\Desktop\octavo semestre\cloud\ejemplo base de datos\src\main\java\mx\uady\jpademo\model\Profesor.java
-C:\Users\chino\Desktop\octavo semestre\cloud\ejemplo base de datos\src\main\java\mx\uady\jpademo\request\AlumnoRequest.java
-C:\Users\chino\Desktop\octavo semestre\cloud\ejemplo base de datos\src\main\java\mx\uady\jpademo\model\Tutoria.java
-C:\Users\chino\Desktop\octavo semestre\cloud\ejemplo base de datos\src\main\java\mx\uady\jpademo\repository\ProfesorRepository.java
-C:\Users\chino\Desktop\octavo semestre\cloud\ejemplo base de datos\src\main\java\mx\uady\jpademo\service\ProfesorService.java
-C:\Users\chino\Desktop\octavo semestre\cloud\ejemplo base de datos\src\main\java\mx\uady\jpademo\repository\AlumnoRepository.java
-C:\Users\chino\Desktop\octavo semestre\cloud\ejemplo base de datos\src\main\java\mx\uady\jpademo\JpaDemoApplication.java
-C:\Users\chino\Desktop\octavo semestre\cloud\ejemplo base de datos\src\main\java\mx\uady\jpademo\request\ProfesoresRequest.java
+C:\Users\Samue\Documents\Facultad\8vo Semestre\Desarrollo Nube\Actividades\nube\src\main\java\mx\uady\jpademo\request\EquipoRequest.java
+C:\Users\Samue\Documents\Facultad\8vo Semestre\Desarrollo Nube\Actividades\nube\src\main\java\mx\uady\jpademo\request\ProfesoresRequest.java
+C:\Users\Samue\Documents\Facultad\8vo Semestre\Desarrollo Nube\Actividades\nube\src\main\java\mx\uady\jpademo\request\TutoriaRequest.java
+C:\Users\Samue\Documents\Facultad\8vo Semestre\Desarrollo Nube\Actividades\nube\src\main\java\mx\uady\jpademo\service\UsuarioService.java
+C:\Users\Samue\Documents\Facultad\8vo Semestre\Desarrollo Nube\Actividades\nube\src\main\java\mx\uady\jpademo\repository\UsuarioRepository.java
+C:\Users\Samue\Documents\Facultad\8vo Semestre\Desarrollo Nube\Actividades\nube\src\main\java\mx\uady\jpademo\service\TutoriaService.java
+C:\Users\Samue\Documents\Facultad\8vo Semestre\Desarrollo Nube\Actividades\nube\src\main\java\mx\uady\jpademo\JpaDemoApplication.java
+C:\Users\Samue\Documents\Facultad\8vo Semestre\Desarrollo Nube\Actividades\nube\src\main\java\mx\uady\jpademo\model\Alumno.java
+C:\Users\Samue\Documents\Facultad\8vo Semestre\Desarrollo Nube\Actividades\nube\src\main\java\mx\uady\jpademo\model\Usuario.java
+C:\Users\Samue\Documents\Facultad\8vo Semestre\Desarrollo Nube\Actividades\nube\src\main\java\mx\uady\jpademo\request\UsuarioRequest.java
+C:\Users\Samue\Documents\Facultad\8vo Semestre\Desarrollo Nube\Actividades\nube\src\main\java\mx\uady\jpademo\repository\ProfesorRepository.java
+C:\Users\Samue\Documents\Facultad\8vo Semestre\Desarrollo Nube\Actividades\nube\src\main\java\mx\uady\jpademo\service\AlumnoService.java
+C:\Users\Samue\Documents\Facultad\8vo Semestre\Desarrollo Nube\Actividades\nube\src\main\java\mx\uady\jpademo\service\EquipoService.java
+C:\Users\Samue\Documents\Facultad\8vo Semestre\Desarrollo Nube\Actividades\nube\src\main\java\mx\uady\jpademo\repository\EquipoRepository.java
+C:\Users\Samue\Documents\Facultad\8vo Semestre\Desarrollo Nube\Actividades\nube\src\main\java\mx\uady\jpademo\request\AlumnoRequest.java
+C:\Users\Samue\Documents\Facultad\8vo Semestre\Desarrollo Nube\Actividades\nube\src\main\java\mx\uady\jpademo\service\ProfesorService.java
+C:\Users\Samue\Documents\Facultad\8vo Semestre\Desarrollo Nube\Actividades\nube\src\main\java\mx\uady\jpademo\model\Tutoria.java
+C:\Users\Samue\Documents\Facultad\8vo Semestre\Desarrollo Nube\Actividades\nube\src\main\java\mx\uady\jpademo\model\Equipo.java
+C:\Users\Samue\Documents\Facultad\8vo Semestre\Desarrollo Nube\Actividades\nube\src\main\java\mx\uady\jpademo\repository\AlumnoRepository.java
+C:\Users\Samue\Documents\Facultad\8vo Semestre\Desarrollo Nube\Actividades\nube\src\main\java\mx\uady\jpademo\model\Profesor.java
+C:\Users\Samue\Documents\Facultad\8vo Semestre\Desarrollo Nube\Actividades\nube\src\main\java\mx\uady\jpademo\repository\TutoriaRepository.java
+C:\Users\Samue\Documents\Facultad\8vo Semestre\Desarrollo Nube\Actividades\nube\src\main\java\mx\uady\jpademo\resource\JpaResource.java

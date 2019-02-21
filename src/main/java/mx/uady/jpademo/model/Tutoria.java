@@ -47,24 +47,31 @@ public class Tutoria {
         @Column(name = "id_profesor")
         Integer profesorId;
 
-        public TutoriaId() { }
+        public TutoriaId() {
+        }
 
         /**
          * @return the alumnoId
          */
         public Integer getAlumnoId() {
             return alumnoId;
-        }/**
+        }
+
+        /**
          * @param alumnoId the alumnoId to set
          */
         public void setAlumnoId(Integer alumnoId) {
             this.alumnoId = alumnoId;
-        }/**
+        }
+
+        /**
          * @return the profesorId
          */
         public Integer getProfesorId() {
             return profesorId;
-        }/**
+        }
+
+        /**
          * @param profesorId the profesorId to set
          */
         public void setProfesorId(Integer profesorId) {
@@ -136,14 +143,8 @@ public class Tutoria {
 
     @Override
     public String toString() {
-        return "{" +
-            " id='" + getId() + "'" +
-            ", alumno='" + getAlumno() + "'" +
-            ", profesor='" + getProfesor() + "'" +
-            ", horas='" + getHoras() + "'" +
-            "}";
+        return "{" + " id='" + getId() + "'" + ", alumno='" + getAlumno() + "'" + ", profesor='" + getProfesor() + "'"
+                + ", horas='" + getHoras() + "'" + "}";
     }
-    
-
 
 }

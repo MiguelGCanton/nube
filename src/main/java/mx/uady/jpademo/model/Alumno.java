@@ -27,7 +27,7 @@ public class Alumno {
     @Id
     public Integer id;
 
-    @Column 
+    @Column
     public String nombre;
 
     @Column
@@ -78,12 +78,14 @@ public class Alumno {
     public String getLicenciatura() {
         return licenciatura;
     }
+
     /**
      * @param licenciatura the licenciatura to set
      */
     public void setLicenciatura(String licenciatura) {
         this.licenciatura = licenciatura;
     }
+
     public Equipo getEquipoId() {
         return this.equipoId;
     }
@@ -133,17 +135,10 @@ public class Alumno {
         return this;
     }
 
-    
-
     @Override
     public String toString() {
-        return "{" +
-            " id='" + getId() + "'" +
-            ", nombre='" + getNombre() + "'" +
-            ", equipoId='" + getEquipoId() + "'" +
-            ", usuarioId='" + getUsuarioId() + "'" +
-            ", tutorias='" + getTutorias() + "'" +
-            "}";
-    } 
-    
+        return "{" + " id='" + getId() + "'" + ", nombre='" + getNombre() + "'" + ", equipoId='" + getEquipoId() + "'"
+                + ", usuarioId='" + getUsuarioId() + "'" + ", tutorias='" + getTutorias() + "'" + "}";
+    }
+
 }
