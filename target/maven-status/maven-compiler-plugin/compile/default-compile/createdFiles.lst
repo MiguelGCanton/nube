@@ -1,0 +1,15 @@
+mx\uady\jpademo\service\ProfesorService.class
+mx\uady\jpademo\model\Alumno.class
+mx\uady\jpademo\service\AlumnoService.class
+mx\uady\jpademo\resource\JpaResource.class
+mx\uady\jpademo\model\Tutoria$TutoriaId.class
+mx\uady\jpademo\request\ProfesoresRequest.class
+mx\uady\jpademo\repository\ProfesorRepository.class
+mx\uady\jpademo\JpaDemoApplication.class
+mx\uady\jpademo\model\Tutoria.class
+mx\uady\jpademo\model\Profesor.class
+mx\uady\jpademo\model\Usuario.class
+mx\uady\jpademo\repository\AlumnoRepository.class
+mx\uady\jpademo\repository\UsuarioRepository.class
+mx\uady\jpademo\model\Equipo.class
+mx\uady\jpademo\request\AlumnoRequest.class
